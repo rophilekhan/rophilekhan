@@ -9,6 +9,20 @@
 
 <p align="left"> <a href="https://twitter.com/rophilekhan" target="blank"><img src="https://img.shields.io/twitter/follow/rophilekhan?logo=twitter&style=for-the-badge" alt="rophilekhan" /></a> </p>
 
+Hello, Fellow Coders and Tech Enthusiasts! 👋
+I'm a passionate software engineer and dedicated MERN stack developer, captivated by the art and science of programming. Here on my GitHub, you'll find a rich collection of my coding adventures and projects, each one a testament to my passion for crafting innovative, impactful solutions.
+
+🌟 What You’ll Find Here
+In this GitHub realm, I’ve curated a diverse array of projects, code snippets, and experiments that span various domains. From cutting-edge web applications harnessing the latest in tech to unique software development projects, this repository is a reflection of my ongoing commitment to the ever-evolving world of software engineering.
+
+🌱 A Journey of Continuous Growth
+For me, programming is more than just a career—it's a lifelong pursuit. I'm driven by a desire to build meaningful solutions, solve challenging problems, and learn and grow in this dynamic field. Each project here embodies a new skill, a refined approach, or a solved problem on my journey to becoming a better engineer.
+
+🤝 Let’s Connect and Collaborate!
+Whether you’re here to explore, collaborate, or simply connect, I'm always open to exchanging ideas and building alongside others who share a love for software development and the thrilling world of AI and chatbots. Together, we can elevate the digital landscape, one line of code at a time.
+
+
+
 - 🌱 I’m currently learning **MongoDB, NestJS, ExpressJS**
 
 - 💬 Ask me about **.NET, React Native, ReactJS, NextJS, Javascript, Typescript, TailwindCSS**
@@ -19,9 +33,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rophilekhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rophilekhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rophile ahmed khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rophile ahmed khan" height="30" width="40" /></a>
-<a href="https://fb.com/rophile khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rophile khan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rophile-ahmed-khan-3aa400229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rophile ahmed khan" height="30" width="40" /></a>
+<a href="https://fb.com/100073433437092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rophile khan" height="30" width="40" /></a>
 <a href="https://instagram.com/rophile_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rophile_khan" height="30" width="40" /></a>
 </p>
 

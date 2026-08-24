@@ -1,45 +1,65 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fcd6eda9-84c4-4d7b-97ea-edd073d817b3" alt="Rophile Ahmed Khan Banner" width="100%" />
 
-![github_readem_cover](https://github.com/user-attachments/assets/fcd6eda9-84c4-4d7b-97ea-edd073d817b3)
+  <h1>Hi 👋, I'm Rophile Ahmed Khan</h1>
+  <h3>A Passionate Software Engineer & MERN Stack Developer 💻</h3>
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=rophilekhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://twitter.com/rophilekhan"><img src="https://img.shields.io/twitter/follow/rophilekhan?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter" /></a>
+    <a href="https://linkedin.com/in/rophile-ahmed-khan-3aa400229"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  </p>
+</div>
 
-<h1 align="center">Hi 👋, I'm Rophile Ahmed Khan</h1>
-<h3 align="center">A PASSIONATED SOFTWARE ENGINEER!</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rophilekhan&label=Profile%20views&color=0e75b6&style=flat" alt="rophilekhan" /> </p>
+## 👨‍💻 About Me
 
-<p align="left"> <a href="https://twitter.com/rophilekhan" target="blank"><img src="https://img.shields.io/twitter/follow/rophilekhan?logo=twitter&style=for-the-badge" alt="rophilekhan" /></a> </p>
+Hello, Fellow Coders! 👋 I am captivated by the art and science of programming. My GitHub is a rich collection of my coding adventures, reflecting my commitment to crafting innovative and impactful solutions. I'm always open to exchanging ideas and building alongside others who share a love for software development.
 
-Hello, Fellow Coders and Tech Enthusiasts! 👋
-I'm a passionate software engineer and dedicated MERN stack developer, captivated by the art and science of programming. Here on my GitHub, you'll find a rich collection of my coding adventures and projects, each one a testament to my passion for crafting innovative, impactful solutions.
+- 🔭 **Currently working on:** Innovative web applications and exploring the MERN stack.
+- 🌱 **Currently learning:** MongoDB, NestJS, ExpressJS.
+- 💬 **Ask me about:** .NET, React Native, ReactJS, NextJS, JavaScript, TypeScript, TailwindCSS.
+- 📫 **How to reach me:** [rophile.khan@gmail.com](mailto:rophile.khan@gmail.com)
+- ⚡ **Fun fact:** I love taking apart gadgets just to see how they work! 🛠️
 
-🌟 What You’ll Find Here
-In this GitHub realm, I’ve curated a diverse array of projects, code snippets, and experiments that span various domains. From cutting-edge web applications harnessing the latest in tech to unique software development projects, this repository is a reflection of my ongoing commitment to the ever-evolving world of software engineering.
+---
 
-🌱 A Journey of Continuous Growth
-For me, programming is more than just a career—it's a lifelong pursuit. I'm driven by a desire to build meaningful solutions, solve challenging problems, and learn and grow in this dynamic field. Each project here embodies a new skill, a refined approach, or a solved problem on my journey to becoming a better engineer.
+## 🚀 Tech Stack & Tools
 
-🤝 Let’s Connect and Collaborate!
-Whether you’re here to explore, collaborate, or simply connect, I'm always open to exchanging ideas and building alongside others who share a love for software development and the thrilling world of AI and chatbots. Together, we can elevate the digital landscape, one line of code at a time.
-
-
-
-- 🌱 I’m currently learning **MongoDB, NestJS, ExpressJS**
-
-- 💬 Ask me about **.NET, React Native, ReactJS, NextJS, Javascript, Typescript, TailwindCSS**
-
-- 📫 How to reach me **rophile.khan@gmail.com**
-
-- ⚡ Fun fact **"I love taking apart gadgets just to see how they work."**
-
-<h3 align="left">Connect with me:</h3>
+### Frontend
 <p align="left">
-<a href="https://linkedin.com/in/rophile-ahmed-khan-3aa400229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rophile ahmed khan" height="30" width="40" /></a>
-<a href="https://fb.com/100073433437092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rophile khan" height="30" width="40" /></a>
-<a href="https://instagram.com/rophile_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rophile_khan" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="ExpressJS" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rophilekhan&" alt="rophilekhan" /></p>
+### Tools & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rophilekhan&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rophilekhan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
